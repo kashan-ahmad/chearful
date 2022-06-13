@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  margin: 0;
+}
+
+/* Custom Components. */
+
+.badge {
+  @apply text-3xs py-1 px-2 rounded-full;
+}

@@ -1,0 +1,78 @@
+import { Therapist } from "./types";
+
+const productGridItems: Therapist[] = [
+  {
+    id: 1,
+    tags: ["❤ Most Liked", "🙎‍♂️ 2300 Lives Impacted"],
+    name: "Leona Pollich",
+    experience: "6+ Yrs",
+    fields: ["Therapy", "Stress", "Anger", "Insomnia"],
+    languages: ["English", "Urdu", "Arabic"],
+    fee: "$100",
+  },
+  {
+    id: 2,
+    tags: ["❤ Most Liked", "🙎‍♂️ 2300 Lives Impacted"],
+    name: "Leona Pollich",
+    experience: "6+ Yrs",
+    fields: ["Therapy", "Stress", "Anger", "Insomnia"],
+    languages: ["English", "Urdu", "Arabic"],
+    fee: "$100",
+  },
+  {
+    id: 3,
+    tags: ["❤ Most Liked", "🙎‍♂️ 2300 Lives Impacted"],
+    name: "Leona Pollich",
+    experience: "6+ Yrs",
+    fields: ["Therapy", "Stress", "Anger", "Insomnia"],
+    languages: ["English", "Urdu", "Arabic"],
+    fee: "$100",
+  },
+  {
+    id: 4,
+    tags: ["❤ Most Liked", "🙎‍♂️ 2300 Lives Impacted"],
+    name: "Leona Pollich",
+    experience: "6+ Yrs",
+    fields: ["Therapy", "Stress", "Anger", "Insomnia"],
+    languages: ["English", "Urdu", "Arabic"],
+    fee: "$100",
+  },
+  {
+    id: 5,
+    tags: ["❤ Most Liked", "🙎‍♂️ 2300 Lives Impacted"],
+    name: "Leona Pollich",
+    experience: "6+ Yrs",
+    fields: ["Therapy", "Stress", "Anger", "Insomnia"],
+    languages: ["English", "Urdu", "Arabic"],
+    fee: "$100",
+  },
+  {
+    id: 6,
+    tags: ["❤ Most Liked", "🙎‍♂️ 2300 Lives Impacted"],
+    name: "Leona Pollich",
+    experience: "6+ Yrs",
+    fields: ["Therapy", "Stress", "Anger", "Insomnia"],
+    languages: ["English", "Urdu", "Arabic"],
+    fee: "$100",
+  },
+  {
+    id: 7,
+    tags: ["❤ Most Liked", "🙎‍♂️ 2300 Lives Impacted"],
+    name: "Leona Pollich",
+    experience: "6+ Yrs",
+    fields: ["Therapy", "Stress", "Anger", "Insomnia"],
+    languages: ["English", "Urdu", "Arabic"],
+    fee: "$100",
+  },
+  {
+    id: 8,
+    tags: ["❤ Most Liked", "🙎‍♂️ 2300 Lives Impacted"],
+    name: "Leona Pollich",
+    experience: "6+ Yrs",
+    fields: ["Therapy", "Stress", "Anger", "Insomnia"],
+    languages: ["English", "Urdu", "Arabic"],
+    fee: "$100",
+  },
+];
+
+export default productGridItems;
